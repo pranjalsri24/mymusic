@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mymusic/static/css/main.706eba55.css",
+    "main.js": "/mymusic/static/js/main.a9610252.js",
+    "static/media/somebody-new.mp3": "/mymusic/static/media/somebody-new.d8b2adcee50c4a1fc4bd.mp3",
+    "static/media/public_music_on-n-on.mp3": "/mymusic/static/media/public_music_on-n-on.2a4e63cddb6cad52f2aa.mp3",
+    "static/media/Maan Meri Jaan(PagalWorld.com.se).mp3": "/mymusic/static/media/Maan Meri Jaan(PagalWorld.com.se).64cb587e74afd726aa1f.mp3",
+    "static/media/Har Har Shambhu Shiv Mahadeva_64(PagalWorld.com.se).mp3": "/mymusic/static/media/Har Har Shambhu Shiv Mahadeva_64(PagalWorld.com.se).83839e3e5b40e2d2e429.mp3",
+    "index.html": "/mymusic/index.html",
+    "main.706eba55.css.map": "/mymusic/static/css/main.706eba55.css.map",
+    "main.a9610252.js.map": "/mymusic/static/js/main.a9610252.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.706eba55.css",
+    "static/js/main.a9610252.js"
+  ]
+}
